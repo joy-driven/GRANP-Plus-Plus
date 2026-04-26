@@ -1,2 +1,2 @@
-# Uncertainty Quantification for Trajectory Prediction Using Bayesian Graph Recurrent Attentive Neural Process Model (GRANP++) 
+# Uncertainty Quantification for Vehicle Trajectory Prediction via Full-Covariance Bayesian spatial-temporal Neural Processes (BSTNP)
 Upon receipt of the article, we shall make the source code available.
